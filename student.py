@@ -8,3 +8,6 @@ print(f"Name: {name}")
 print(f"Age: {age}")
 print(f"USN: {usn}")
 print(f"Course: {course}")
+
+college=input("Enter your college name: ")
+print(f"College: {college}")
